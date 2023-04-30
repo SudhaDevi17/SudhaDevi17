@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sudha Devi, I am currently working as a Senior Data scientist with Deloitte USI 
 - 👀 I’m interested in machine Learning and AI. 
-- 🌱 I’m currently learning advance AI algorithms 
 - 💞️ I’m looking to collaborate on Machine learning and AI open source initiatives. 
 - 📫 How to reach me : linkedin.com/in/sudha-devi
 
